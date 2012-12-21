@@ -1,0 +1,4974 @@
+﻿{
+"HOUSE": {
+	"Png": "b_house",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "LARGE_HOUSE",
+	"Tags": ["gather"],
+	"Sort": 100
+},
+"LARGE_HOUSE": {
+	"Png": "b_large_house",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "ELITE_HOUSE",
+	"Tags": ["gather, dev"],
+	"Sort": 100
+},
+"ELITE_HOUSE": {
+	"Png": "b_elite_house",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather, dev"],
+	"Sort": 100
+},
+"HOUSE_1": {
+	"Png": "b_house_1",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"COTTAGE": {
+	"Png": "b_cottage",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "LARGE_COTTAGE",
+	"Tags": ["gather"],
+	"Sort": 100
+},
+"LARGE_COTTAGE": {
+	"Png": "b_large_cottage",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather", "dev"],
+	"Sort": 100
+},
+"ELITE_COTTAGE": {
+	"Png": "b_elite_cottage",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather", "dev"],
+	"Sort": 100
+},
+"ESTATE": {
+	"Png": "b_estate",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "MANOR",
+	"Tags": ["gather"],
+	"Sort": 100
+},
+"MANOR": {
+	"Png": "b_manor",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "VILLA",
+	"Tags": ["gather", "dev"],
+	"Sort": 100
+},
+"VILLA": {
+	"Png": "b_villa",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather", "dev"],
+	"Sort": 100
+},
+"AGRO_STORE": {
+	"Png": "b_agronomic_store",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"BAKERY": {
+"Png": "b_bakery",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"BARBERSHOP": {
+	"Png": "b_barbershop",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"BOTTLING_PLANT": {
+	"Png": "b_bottling_plant",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "BOTTLING_PLANT2",
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"BOTTLING_PLANT2": {
+	"Png": "b_bottling_plant2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft", "dev"],
+	"Sort": 100
+},
+"BUTCHER_SHOP": {
+	"Png": "b_butcher_shop",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"CAFE": {
+	"Png": "b_cafe",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "CAFE2",
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"CAFE2": {
+	"Png": "b_cafe2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft", "dev"],
+	"Sort": 100
+},
+"CANDY_SHOP": {
+	"Png": "b_candy_shop",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"CASTLE_DARK1": {
+	"Png": "b_castle_dark1",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "CASTLE_DARK2",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"CASTLE_DARK2": {
+	"Png": "b_castle_dark2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "CASTLE_DARK3",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"CASTLE_DARK3": {
+	"Png": "b_castle_dark3",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "CASTLE_DARK4",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"CASTLE_DARK4": {
+	"Png": "b_castle_dark4",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "CASTLE_DARK5",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"CASTLE_DARK5": {
+	"Png": "b_castle_dark5",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"COOPER_WORKSHOP": {
+	"Png": "b_cooper_workshop",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"FARMERHOUSE": {
+	"Png": "b_farmerhouse",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"FERMENTING_CELLAR": {
+	"Png": "b_fermenting_cellar",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "FERMENTING_CELLAR2",
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"FERMENTING_CELLAR2": {
+	"Png": "b_fermenting_cellar2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft", "dev"],
+	"Sort": 100
+},
+"FISH_SHOP": {
+	"Png": "b_fish_shop",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather"], 
+	"Sort": 100
+},
+"GLASS_BLOWING": {
+	"Png": "b_glass_blowing",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather"],
+	"Sort": 100
+},
+"GROCERY_STORE": {
+	"Png": "b_grocery_store",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather"],
+	"Sort": 100
+},
+"HIVE": {
+	"Png": "hive",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather"],
+	"Sort": 100
+},
+"MALL": {
+	"Png": "b_mall",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"MARKET": {
+	"Png": "b_market",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"MILK_FACTORY": {
+	"Png": "b_milk_factory",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"OFFICE": {
+	"Png": "b_office",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["dev", "craft"],
+	"Sort": 100
+},
+"OFFICE2": {
+	"Png": "b_office2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "OFFICE2",
+	"Tags": ["dev", "craft"],
+	"Sort": 100
+},
+"PEAT_MINE": {
+	"Png": "b_peat_mine",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"PEAT_MINE_1": {
+	"Png": "b_peat_mine_1",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "PEAT_MINE",
+	"Tags": ["decor", "dev"],
+	"Sort": 100
+},
+"PERFUME_FACTORY": {
+	"Png": "b_perfume_factory",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "PERFUME_FACTORY2",
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"PERFUME_FACTORY2": {
+	"Png": "b_perfume_factory2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "PERFUME_FACTORY3",
+	"Tags": ["craft", "dev"],
+	"Sort": 100
+},
+"PERFUME_FACTORY3": {
+	"Png": "b_perfume_factory3",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft", "dev"],
+	"Sort": 100
+},
+"PHARMACY": {
+	"Png": "b_pharmacy",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"POST_OFFICE": {
+	"Png": "b_post_office",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"SAWMILL": {
+	"Png": "b_sawmill",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"SAWMILL_1": {
+	"Png": "b_sawmill_1",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "SAWMILL",
+	"Tags": ["craft", "dev"],
+	"Sort": 100
+},
+"STORAGE_GRAPE": {
+	"Png": "b_storage_grape",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "STORAGE_GRAPE2",
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STORAGE_GRAPE2": {
+	"Png": "b_storage_grape2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STORAGE_GRAPE_LARGE": {
+	"Png": "b_storage_grape_large",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "LARGE_GRAPE_STORAGE2",
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LARGE_GRAPE_STORAGE2": {
+	"Png": "b_large_grape_storage2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"WATER_MILL": {
+	"Png": "b_water_mill",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"WATER_MILL_1": {
+	"Png": "b_water_mill_1",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "WATER_MILL_2",
+	"Tags": ["decor", "dev"],
+	"Sort": 100
+},
+"WATER_MILL_2": {
+	"Png": "b_water_mill_2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "WATER_MILL_3",
+	"Tags": ["decor", "dev"],
+	"Sort": 100
+},
+"WATER_MILL_3": {
+	"Png": "b_water_mill_3",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "WATER_MILL",
+	"Tags": ["decor", "dev"],
+	"Sort": 100
+},                                                   
+"WELL": {
+	"Png": "b_well",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather"],
+	"Sort": 100
+},
+"WELL_1": {
+	"Png": "b_well_1",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "WELL_2",
+	"Tags": ["decor", "dev"],
+	"Sort": 100
+},
+"WELL_2": {
+	"Png": "b_well_2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "WELL",
+	"Tags": ["decor", "dev"],
+	"Sort": 100
+},
+"WELL_BIG": {
+	"Png": "b_well_big",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["gather"],
+	"Sort": 100
+},
+"WINE_CELLAR": {
+	"Png": "b_wine_cellar",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "WINE_CELLAR2",
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"WINE_CELLAR2": {
+	"Png": "b_wine_cellar2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"WINE_INSTITUTE": {
+	"Png": "b_wine_institute",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "WINE_INSTITUTE2",
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"WINE_INSTITUTE2": {
+	"Png": "b_wine_institute2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "WINE_INSTITUTE3",
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"WINE_INSTITUTE3": {
+	"Png": "b_wine_institute3",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["craft"],
+	"Sort": 100
+},
+"BED_FERN": {
+	"Png": "bed_fern",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_FERN_WHITE": {
+	"Png": "bed_fern_white",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_FLOWERS_1": {
+	"Png": "bed_flowers_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_FLOWERS_2": {
+	"Png": "bed_flowers_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_FORGET-ME-NOT_BIG": {
+	"Png": "bed_forget-me-not_big",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_GERANIUM": {
+	"Png": "bed_geranium",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_LAVENDER": {
+	"Png": "bed_lavender",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_LAVENDER_BLUE": {
+	"Png": "bed_lavender_blue",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_LAVENDER_BUSH": {
+	"Png": "bed_lavender_bush",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_LAVENDER_FASHIONABLE": {
+	"Png": "bed_lavender_fashionable",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_LAVENDER_PINK": {
+	"Png": "bed_lavender_pink",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_LAVENDER_WHITE": {
+	"Png": "bed_lavender_white",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_LILY": {
+	"Png": "bed_lily",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_MONSTERA_GIANT": {
+	"Png": "bed_monstera_giant",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_ORCHID_BIG": {
+	"Png": "bed_orchid_big",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_PEONY": {
+	"Png": "bed_peony",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_PHLOX": {
+	"Png": "bed_phlox",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_POPPY": {
+	"Png": "bed_poppy",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_ROSES_VASE": {
+	"Png": "bed_roses_vase",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_TULIP": {
+	"Png": "bed_tulip",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_TULIP_WHITE": {
+	"Png": "bed_tulip_white",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH": {
+	"Png": "bench",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH_ELEGANT": {
+	"Png": "bench_elegant",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH_GREY_IRON": {
+	"Png": "bench_grey_iron",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH_MARBLE": {
+	"Png": "bench_marble",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH_OLD": {
+	"Png": "bench_old",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH_PARK": {
+	"Png": "bench_park",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH_SEATING": {
+	"Png": "bench_seating",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH_WOODEN": {
+	"Png": "bench_wooden",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BRIDGE_STONE": {
+	"Png": "bridge_stone",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_BABY_MAPLE": {
+	"Png": "bush_baby_maple",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_CYPRESS": {
+	"Png": "bush_cypress",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_EUCALYPTUS": {
+	"Png": "bush_eucalyptus",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_HEART": {
+	"Png": "bush_heart",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_HEATHER": {
+	"Png": "bush_heather",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_MINI_CYPRESS": {
+	"Png": "bush_mini_cypress",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_CAKE": {
+	"Png": "bush_shaped_cake",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_EIGHT": {
+	"Png": "bush_shaped_eight",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_FENCE": {
+	"Png": "bush_shaped_fence",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_GREEN_ARCH": {
+	"Png": "bush_shaped_green_arch",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_RING": {
+	"Png": "bush_shaped_ring",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_SNOWMAN": {
+	"Png": "bush_shaped_snowman",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_SPHERE": {
+	"Png": "bush_shaped_sphere",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_SPHERE_PINK": {
+	"Png": "bush_shaped_sphere_pink",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SHAPED_SPHERE_ROSES": {
+	"Png": "bush_shaped_sphere_roses",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SYRINGA": {
+	"Png": "bush_syringa",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BUSH_SYRINGA_BIG": {
+	"Png": "bush_syringa_big",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"COLUMN_GOLD": {
+	"Png": "column_gold",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"COLUMN_GOLDEN": {
+	"Png": "column_golden",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"COLUMN_MOSS": {
+	"Png": "column_moss",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"CYPRESS_POT": {
+	"Png": "cypress_pot",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"CYPRESS_SHAPED": {
+	"Png": "cypress_shaped",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"CYPRESS_WOODEN-POT": {
+	"Png": "cypress_wooden-pot",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BED_PLANTS_IN_POTS": {
+	"Png": "bed_plants_in_pots",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"VINES_RED": {
+	"Png": "vines_red",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"BENCH_ELEGANT2": {
+	"Png": "bench_elegant2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"FENCE_ARCH_1": {
+	"Png": "fence_arch_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_ARCH_2": {
+	"Png": "fence_arch_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_ARCH_3": {
+	"Png": "fence_arch_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_CLEMATIS": {
+	"Png": "fence_clematis",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_CLEMATIS_WHITE": {
+	"Png": "fence_clematis_white",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_1": {
+	"Png": "fence_green_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_1_CORNER": {
+	"Png": "fence_green_1_corner",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_2": {
+	"Png": "fence_green_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_2_CORNER": {
+	"Png": "fence_green_2_corner",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_3": {
+	"Png": "fence_green_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_3_CORNER": {
+	"Png": "fence_green_3_corner",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_4": {
+	"Png": "fence_green_4",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_4_CORNER": {
+	"Png": "fence_green_4_corner",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_5": {
+	"Png": "fence_green_5",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_GREEN_5_CORNER": {
+	"Png": "fence_green_5_corner",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_HURDLE": {
+	"Png": "fence_hurdle",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_LIVE_BIG": {
+	"Png": "fence_live_big",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_PARK_WHITE_SECTION": {
+	"Png": "fence_park_white_section",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_PLASTIC": {
+	"Png": "fence_plastic",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_SECTION_CLEAN": {
+	"Png": "fence_section_clean",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_SIMPLE_WOODEN": {
+	"Png": "fence_simple_wooden",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_WHITE": {
+	"Png": "fence_white",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FENCE_WICKER": {
+	"Png": "fence_wicker",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"FIELD_BUTTERCUPS": {
+	"Png": "field_buttercups",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"FIELD_CORNFLOWERS": {
+	"Png": "field_cornflowers",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"FIELD_DAISIES": {
+	"Png": "field_daisies",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"FIELD_WEED_1": {
+	"Png": "field_weed_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"FIELD_WEED_2": {
+	"Png": "field_weed_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"FIELD_WEED_3": {
+	"Png": "field_weed_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"FOUNTAIN_BIG_1": {
+	"Png": "fountain_big_1",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "FOUNTAIN_BIG_2",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"FOUNTAIN_BIG_2": {
+	"Png": "fountain_big_2",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "FOUNTAIN_BIG_3",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"FOUNTAIN_BIG_3": {
+	"Png": "fountain_big_3",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "FOUNTAIN_BIG_4",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"FOUNTAIN_BIG_4": {
+	"Png": "fountain_big_4",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "FOUNTAIN_BIG_5",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"FOUNTAIN_BIG_5": {
+	"Png": "fountain_big_5",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "FOUNTAIN_BIG_6",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"FOUNTAIN_BIG_6": {
+	"Png": "fountain_big_6",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": "FOUNTAIN_BIG_7",
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"FOUNTAIN_BIG_7": {
+	"Png": "fountain_big_7",
+	"Craft": [
+	],
+	"Builders": 2,
+	"BuildTime": 1,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"StartReq": [
+	],
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"UpgradeLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"UpgradeReq": [
+	],
+	"UpgradeTarget": null,
+	"Tags": ["dev", "decor"],
+	"Sort": 100
+},
+"FOUNTAIN_LITTLE": {
+	"Png": "fountain_little",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"FOUNTAIN_WILD_SPRING": {
+	"Png": "fountain_wild_spring",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"GRAPEPORTAL_GOLD": {
+	"Png": "grapeportal_gold",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"GRAPEPORTAL_SILVER": {
+	"Png": "grapeportal_silver",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_GOLD": {
+	"Png": "light_gold",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_GREY": {
+	"Png": "light_grey",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_KEROSENE": {
+	"Png": "light_kerosene",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_MODERN": {
+	"Png": "light_modern",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_PALACE": {
+	"Png": "light_palace",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_PALACE_1": {
+	"Png": "light_palace_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_PALACE_2": {
+	"Png": "light_palace_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_PALACE_3": {
+	"Png": "light_palace_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_PALACE_4": {
+	"Png": "light_palace_4",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_SCULPTURE": {
+	"Png": "light_sculpture",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIGHT_STREET": {
+	"Png": "light_street",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"LIVE_FENCE": {
+	"Png": "live_fence",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"PATH_PATH": {
+	"Png": "path_path",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"PATH_PAVEMENT": {
+	"Png": "path_pavement",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"PATH_SAND": {
+	"Png": "path_sand",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"PATH_TILE": {
+	"Png": "path_tile",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"PUZZLE1_01_10": {
+	"Png": "puzzle1_01_10",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_01_13": {
+	"Png": "puzzle1_01_13",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_01_3": {
+	"Png": "puzzle1_01_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_01_6": {
+	"Png": "puzzle1_01_6",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_01_9": {
+	"Png": "puzzle1_01_9",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_ARBOR": {
+	"Png": "puzzle1_arbor",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_BRIDGE": {
+	"Png": "puzzle1_bridge",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_FLOWERS": {
+	"Png": "puzzle1_flowers",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_LANTERN": {
+	"Png": "puzzle1_lantern",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_PATH": {
+	"Png": "puzzle1_path",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_POND": {
+	"Png": "puzzle1_pond",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_STONES": {
+	"Png": "puzzle1_stones",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"PUZZLE1_TREE": {
+	"Png": "puzzle1_tree",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROAD": {
+	"Png": "road",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"ROMAN_RUINS": {
+	"Png": "roman_ruins",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_1": {
+	"Png": "roman_ruins_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_10": {
+	"Png": "roman_ruins_10",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_11": {
+	"Png": "roman_ruins_11",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_12": {
+	"Png": "roman_ruins_12",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_13": {
+	"Png": "roman_ruins_13",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_14": {
+	"Png": "roman_ruins_14",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_15": {
+	"Png": "roman_ruins_15",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_16": {
+	"Png": "roman_ruins_16",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_2": {
+	"Png": "roman_ruins_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_3": {
+	"Png": "roman_ruins_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_4": {
+	"Png": "roman_ruins_4",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_5": {
+	"Png": "roman_ruins_5",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_6": {
+	"Png": "roman_ruins_6",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_7": {
+	"Png": "roman_ruins_7",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_8": {
+	"Png": "roman_ruins_8",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"ROMAN_RUINS_9": {
+	"Png": "roman_ruins_9",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SANDBOX": {
+	"Png": "sandbox",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SCULPTURE_AMOUR": {
+	"Png": "sculpture_amour",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SCULPTURE_ARTEMIS": {
+	"Png": "sculpture_artemis",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SCULPTURE_MARS": {
+	"Png": "sculpture_mars",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SCULPTURE_VENUS": {
+	"Png": "sculpture_venus",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STATUE_DIONYSUS": {
+	"Png": "statue_dionysus",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STATUE_SHELL": {
+	"Png": "statue_shell",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONES_DECORATIVE_1": {
+	"Png": "stones_decorative_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONES_DECORATIVE_2": {
+	"Png": "stones_decorative_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONES_DECORATIVE_3": {
+	"Png": "stones_decorative_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_5": {
+	"Png": "stone_5",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_5_01": {
+	"Png": "stone_5_01",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_5_02": {
+	"Png": "stone_5_02",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_5_03": {
+	"Png": "stone_5_03",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_6": {
+	"Png": "stone_6",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_6_01": {
+	"Png": "stone_6_01",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_6_02": {
+	"Png": "stone_6_02",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_6_03": {
+	"Png": "stone_6_03",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_7": {
+	"Png": "stone_7",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_7_01": {
+	"Png": "stone_7_01",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_7_02": {
+	"Png": "stone_7_02",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_7_03": {
+	"Png": "stone_7_03",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_8": {
+	"Png": "stone_8",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_8_01": {
+	"Png": "stone_8_01",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_8_02": {
+	"Png": "stone_8_02",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_8_03": {
+	"Png": "stone_8_03",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN": {
+	"Png": "stone_garden",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_1": {
+	"Png": "stone_garden_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_10": {
+	"Png": "stone_garden_10",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_11": {
+	"Png": "stone_garden_11",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_12": {
+	"Png": "stone_garden_12",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_13": {
+	"Png": "stone_garden_13",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_14": {
+	"Png": "stone_garden_14",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_15": {
+	"Png": "stone_garden_15",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_16": {
+	"Png": "stone_garden_16",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_17": {
+	"Png": "stone_garden_17",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_18": {
+	"Png": "stone_garden_18",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_19": {
+	"Png": "stone_garden_19",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_2": {
+	"Png": "stone_garden_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_20": {
+	"Png": "stone_garden_20",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_3": {
+	"Png": "stone_garden_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_4": {
+	"Png": "stone_garden_4",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_5": {
+	"Png": "stone_garden_5",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_6": {
+	"Png": "stone_garden_6",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_7": {
+	"Png": "stone_garden_7",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_8": {
+	"Png": "stone_garden_8",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"STONE_GARDEN_9": {
+	"Png": "stone_garden_9",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_1": {
+	"Png": "swamp_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_1_1": {
+	"Png": "swamp_1_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_1_2": {
+	"Png": "swamp_1_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_2": {
+	"Png": "swamp_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_2_2": {
+	"Png": "swamp_2_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_2_3": {
+	"Png": "swamp_2_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_3": {
+	"Png": "swamp_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_3_1": {
+	"Png": "swamp_3_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWAMP_3_2": {
+	"Png": "swamp_3_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWINGS": {
+	"Png": "swings",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"SWINGS_PADDED": {
+	"Png": "swings_padded",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TABLE": {
+	"Png": "table",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TABLE_MODERN": {
+	"Png": "table_modern",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TABLE_PICNIC": {
+	"Png": "table_picnic",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TILE_DARK_PURPLE": {
+	"Png": "tile_dark_purple",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_1": {
+	"Png": "tile_palace_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_10": {
+	"Png": "tile_palace_10",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_11": {
+	"Png": "tile_palace_11",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_12": {
+	"Png": "tile_palace_12",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_13": {
+	"Png": "tile_palace_13",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_14": {
+	"Png": "tile_palace_14",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_15": {
+	"Png": "tile_palace_15",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_16": {
+	"Png": "tile_palace_16",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_17": {
+	"Png": "tile_palace_17",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_18": {
+	"Png": "tile_palace_18",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_19": {
+	"Png": "tile_palace_19",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_2": {
+	"Png": "tile_palace_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_20": {
+	"Png": "tile_palace_20",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_21": {
+	"Png": "tile_palace_21",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_22": {
+	"Png": "tile_palace_22",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_23": {
+	"Png": "tile_palace_23",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_24": {
+	"Png": "tile_palace_24",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_25": {
+	"Png": "tile_palace_25",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_26": {
+	"Png": "tile_palace_26",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_27": {
+	"Png": "tile_palace_27",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_28": {
+	"Png": "tile_palace_28",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_29": {
+	"Png": "tile_palace_29",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_3": {
+	"Png": "tile_palace_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_30": {
+	"Png": "tile_palace_30",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_33": {
+	"Png": "tile_palace_33",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_34": {
+	"Png": "tile_palace_34",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_37": {
+	"Png": "tile_palace_37",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_38": {
+	"Png": "tile_palace_38",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_4": {
+	"Png": "tile_palace_4",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_41": {
+	"Png": "tile_palace_41",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_42": {
+	"Png": "tile_palace_42",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_43": {
+	"Png": "tile_palace_43",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_44": {
+	"Png": "tile_palace_44",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_45": {
+	"Png": "tile_palace_45",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_46": {
+	"Png": "tile_palace_46",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_47": {
+	"Png": "tile_palace_47",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_48": {
+	"Png": "tile_palace_48",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_49": {
+	"Png": "tile_palace_49",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_5": {
+	"Png": "tile_palace_5",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_50": {
+	"Png": "tile_palace_50",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_51": {
+	"Png": "tile_palace_51",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_52": {
+	"Png": "tile_palace_52",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_56": {
+	"Png": "tile_palace_56",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_57": {
+	"Png": "tile_palace_57",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_58": {
+	"Png": "tile_palace_58",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_59": {
+	"Png": "tile_palace_59",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_6": {
+	"Png": "tile_palace_6",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_60": {
+	"Png": "tile_palace_60",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_61": {
+	"Png": "tile_palace_61",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_62": {
+	"Png": "tile_palace_62",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_66": {
+	"Png": "tile_palace_66",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_67": {
+	"Png": "tile_palace_67",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_68": {
+	"Png": "tile_palace_68",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_7": {
+	"Png": "tile_palace_7",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_8": {
+	"Png": "tile_palace_8",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PALACE_9": {
+	"Png": "tile_palace_9",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_PURPLE": {
+	"Png": "tile_purple",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_RED": {
+	"Png": "tile_red",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_YELLOW-GREEN": {
+	"Png": "tile_yellow-green",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TILE_YELLOW-RED": {
+	"Png": "tile_yellow-red",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor","land"],
+	"Sort": 100
+},
+"TREE_APPLE": {
+	"Png": "tree_apple",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_BAOBAB": {
+	"Png": "tree_baobab",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_BIRD_CHERRY": {
+	"Png": "tree_bird_cherry",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_CHERRY": {
+	"Png": "tree_cherry",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_CORK_OAK": {
+	"Png": "tree_cork_oak",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_DEAD_1_2": {
+	"Png": "tree_dead_1_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_DEAD_1_3": {
+	"Png": "tree_dead_1_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_DEAD_2_1": {
+	"Png": "tree_dead_2_1",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_DEAD_2_2": {
+	"Png": "tree_dead_2_2",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_DEAD_2_3": {
+	"Png": "tree_dead_2_3",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_LIME": {
+	"Png": "tree_lime",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_MAPLE": {
+	"Png": "tree_maple",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_OAK": {
+	"Png": "tree_oak",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_OLIVE": {
+	"Png": "tree_olive",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_ORANGE": {
+	"Png": "tree_orange",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_PINE": {
+	"Png": "tree_pine",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_PLUM": {
+	"Png": "tree_plum",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_SAKURA": {
+	"Png": "tree_sakura",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_SHAPED": {
+	"Png": "tree_shaped",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"TREE_WITHERED_OAK": {
+	"Png": "tree_withered_oak",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"UMBRELLA_CHILDREN": {
+	"Png": "umbrella_children",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"UMBRELLA_LARGE": {
+	"Png": "umbrella_large",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"UMBRELLA_SUN": {
+	"Png": "umbrella_sun",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"VASE": {
+	"Png": "vase",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"VASE_FESTIVE": {
+	"Png": "vase_festive",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"VASE_PARK": {
+	"Png": "vase_park",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"VINES_PINK": {
+	"Png": "vines_pink",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+},
+"VINES_WHITE": {
+	"Png": "vines_white",
+	"Builders": 0,
+	"BuildTime": 0,	
+	"BuildLock": {
+		"CancelCost":0, "Prestige":0, "Quests":[]
+	},
+	"PriceFrancs": 0,
+	"PriceMoney": 100,
+	"Tags": ["decor"],
+	"Sort": 100
+}
+}

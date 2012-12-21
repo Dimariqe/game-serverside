@@ -1,0 +1,1238 @@
+﻿{
+    "WATER": {
+        "Icon": "water",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ALMONDS": {
+        "Icon": "almonds",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ALMONDS_FLOUR": {
+        "Icon": "almonds_flour",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ANCHOVY": {
+        "Icon": "anchovy",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "APRICOTS_DRIED": {
+        "Icon": "apricots_dried",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ASH": {
+        "Icon": "ash",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "AX": {
+        "Icon": "ax",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "B1": {
+        "Icon": "b1",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "B2": {
+        "Icon": "b2",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "B3": {
+        "Icon": "b3",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "B4": {
+        "Icon": "b4",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BAGUETTE": {
+        "Icon": "baguette",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BAG_OF_FERTILIZER": {
+        "Icon": "bag_of_fertilizer",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BARBECUE": {
+        "Icon": "barbecue",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BARREL_EMPTY": {
+        "Icon": "barrel_empty",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BASKET": {
+        "Icon": "basket",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BERET": {
+        "Icon": "beret",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BOOK": {
+        "Icon": "book",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BOUQUET_OF_FLOWERS": {
+        "Icon": "bouquet_of_flowers",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BOX_OF_CHOCOLATES": {
+        "Icon": "box_of_chocolates",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BREAKFAST_HOT": {
+        "Icon": "breakfast_hot",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BRICKS": {
+        "Icon": "bricks",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BRICKS2": {
+        "Icon": "bricks2",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BRIE_CHEESE": {
+        "Icon": "brie_cheese",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BRUSH": {
+        "Icon": "brush",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BUILDING_MIXTURE": {
+        "Icon": "building_mixture",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "BUTTER": {
+        "Icon": "butter",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CAESAR_ANGEL": {
+        "Icon": "caesar_angel",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CAKE": {
+        "Icon": "cake",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CALISSONS": {
+        "Icon": "calissons",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CANDELABRUM": {
+        "Icon": "candelabrum",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CANDLES": {
+        "Icon": "candles",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CANE": {
+        "Icon": "cane",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CANTAL_CHEESE": {
+        "Icon": "cantal_cheese",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CART": {
+        "Icon": "cart",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CENTIME": {
+        "Icon": "centime",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CHAMPIGNONS": {
+        "Icon": "champignons",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CLOVER": {
+        "Icon": "clover",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CLUTCH": {
+        "Icon": "clutch",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "COCKTAIL": {
+        "Icon": "cocktail",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "COFFEE": {
+        "Icon": "coffee",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CONCRETE_RING": {
+        "Icon": "concrete_ring",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CORKSCREW": {
+        "Icon": "corkscrew",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CORK_1": {
+        "Icon": "cork_1",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CORK_2": {
+        "Icon": "cork_2",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CORK_3": {
+        "Icon": "cork_3",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CORK_4": {
+        "Icon": "cork_4",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CORK_5": {
+        "Icon": "cork_5",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CREAM": {
+        "Icon": "cream",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CROISSANT": {
+        "Icon": "croissant",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CUTAWAY": {
+        "Icon": "cutaway",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "DIONYSUS_BASE": {
+        "Icon": "dionysus_base",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "DIONYSUS_HANDS": {
+        "Icon": "dionysus_hands",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "DIONYSUS_HEAD": {
+        "Icon": "dionysus_head",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "DIONYSUS_LEGS": {
+        "Icon": "dionysus_legs",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "DIONYSUS_TORSO": {
+        "Icon": "dionysus_torso",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ECLAIR": {
+        "Icon": "eclair",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ECU": {
+        "Icon": "ecu",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "EGGPLANT": {
+        "Icon": "eggplant",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "EGGS": {
+        "Icon": "eggs",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ENERGY.0": {
+        "Icon": "energy.0",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ENERGY.1": {
+        "Icon": "energy.1",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ENERGY.2": {
+        "Icon": "energy.2",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ENERGY.3": {
+        "Icon": "energy.3",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ENERGY.4": {
+        "Icon": "energy.4",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ENERGY.5": {
+        "Icon": "energy.5",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FERTILIZER_PEAT": {
+        "Icon": "fertilizer_peat",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FLOUR": {
+        "Icon": "flour",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FOIE_GRAS": {
+        "Icon": "foie_gras",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FONDUE": {
+        "Icon": "fondue",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FORAGE_COW": {
+        "Icon": "forage_cow",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FORAGE_HEN": {
+        "Icon": "forage_hen",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FORBIS": {
+        "Icon": "forbis",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FRESH_GRAPE": {
+        "Icon": "fresh_grape",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FROG_LEGS": {
+        "Icon": "frog_legs",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "G1": {
+        "Icon": "g1",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "G2": {
+        "Icon": "g2",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "G3": {
+        "Icon": "g3",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "G4": {
+        "Icon": "g4",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GARDEN_SHEARS": {
+        "Icon": "garden_shears",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GERBBLANK": {
+        "Icon": "gerbblank",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GERBPRINT": {
+        "Icon": "gerbprint",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GLASS": {
+        "Icon": "glass",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GLASSES": {
+        "Icon": "glasses",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GLASS_CUTTER": {
+        "Icon": "glass_cutter",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GLOVES": {
+        "Icon": "gloves",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GOLD_PAINT": {
+        "Icon": "gold_paint",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GRAPE_GOLD": {
+        "Icon": "grape_gold",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "GRAPE_SILVER": {
+        "Icon": "grape_silver",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "HAT": {
+        "Icon": "hat",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "HERBES_DE_PROVENCE": {
+        "Icon": "herbes_de_provence",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "HOE": {
+        "Icon": "hoe",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "HONEYCOMB": {
+        "Icon": "honeycomb",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "HONEY_JAR": {
+        "Icon": "honey_jar",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "HOSE": {
+        "Icon": "hose",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ICE": {
+        "Icon": "ice",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "INK": {
+        "Icon": "ink",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "J1": {
+        "Icon": "j1",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "J2": {
+        "Icon": "j2",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "J3": {
+        "Icon": "j3",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "J4": {
+        "Icon": "j4",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "JAM": {
+        "Icon": "jam",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "JASMINE": {
+        "Icon": "jasmine",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "KEY": {
+        "Icon": "key",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LADDER": {
+        "Icon": "ladder",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LAVENDER": {
+        "Icon": "lavender",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LAVENDER2": {
+        "Icon": "lavender2",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LETTER": {
+        "Icon": "letter",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LIARD": {
+        "Icon": "liard",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LIC": {
+        "Icon": "lic",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LILY": {
+        "Icon": "lily",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LIME": {
+        "Icon": "lime",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LOBSTER": {
+        "Icon": "lobster",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "LOUIS": {
+        "Icon": "louis",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "MACARON": {
+        "Icon": "macaron",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "MAGAZINE": {
+        "Icon": "magazine",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "MERINGUE": {
+        "Icon": "meringue",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "MILK": {
+        "Icon": "milk",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "MIMOLETTE_CHEESE": {
+        "Icon": "mimolette_cheese",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "MULLED_WINE": {
+        "Icon": "mulled_wine",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "NAPOLEON": {
+        "Icon": "napoleon",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "NICOISE": {
+        "Icon": "nicoise",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "OILER": {
+        "Icon": "oiler",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "OLIVES": {
+        "Icon": "olives",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "OLIVES_CANNED": {
+        "Icon": "olives_canned",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "OLIVES_JAR": {
+        "Icon": "olives_jar",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "OLIVE_MIXTURE": {
+        "Icon": "olive_mixture",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "OLIVE_OIL_BOTTLE": {
+        "Icon": "olive_oil_bottle",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "OYSTERS": {
+        "Icon": "oysters",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PEAT": {
+        "Icon": "peat",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PEPPER": {
+        "Icon": "pepper",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PERFUME": {
+        "Icon": "perfume",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_1": {
+        "Icon": "picture_cabinet_1",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_10": {
+        "Icon": "picture_cabinet_10",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_2": {
+        "Icon": "picture_cabinet_2",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_3": {
+        "Icon": "picture_cabinet_3",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_4": {
+        "Icon": "picture_cabinet_4",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_5": {
+        "Icon": "picture_cabinet_5",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_6": {
+        "Icon": "picture_cabinet_6",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_7": {
+        "Icon": "picture_cabinet_7",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_8": {
+        "Icon": "picture_cabinet_8",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PICTURE_CABINET_9": {
+        "Icon": "picture_cabinet_9",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PINCE-NEZ": {
+        "Icon": "pince-nez",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PIPE": {
+        "Icon": "pipe",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PLANKS": {
+        "Icon": "planks",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "POCKET_WATCH": {
+        "Icon": "pocket_watch",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PORCINO": {
+        "Icon": "porcino",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "RAKE": {
+        "Icon": "rake",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "RATATOUILLE": {
+        "Icon": "ratatouille",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "REGISTER": {
+        "Icon": "register",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ROOF_TILE": {
+        "Icon": "roof_tile",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ROQUEFORT_CHEESE": {
+        "Icon": "roquefort_cheese",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ROQUEFORT_CUTTER": {
+        "Icon": "roquefort_cutter",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ROSE": {
+        "Icon": "rose",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SALT": {
+        "Icon": "salt",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SAMPLE": {
+        "Icon": "sample",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SAW": {
+        "Icon": "saw",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SAWMILL_DISK": {
+        "Icon": "sawmill_disk",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SCARF": {
+        "Icon": "scarf",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SCISSORS": {
+        "Icon": "scissors",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SCRAP": {
+        "Icon": "scrap",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SCREWDRIVER": {
+        "Icon": "screwdriver",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SECRET": {
+        "Icon": "secret",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SHOES": {
+        "Icon": "shoes",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SHOVEL": {
+        "Icon": "shovel",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SIGN": {
+        "Icon": "sign",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SLEDGEHAMMER": {
+        "Icon": "sledgehammer",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SMOKER": {
+        "Icon": "smoker",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SOU": {
+        "Icon": "sou",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SPRAYER": {
+        "Icon": "sprayer",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SUGAR": {
+        "Icon": "sugar",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "SUNTAN_LOTION": {
+        "Icon": "suntan_lotion",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "TEDDY_BEAR": {
+        "Icon": "teddy_bear",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "THROW_BLANKET": {
+        "Icon": "throw_blanket",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "TOMATO": {
+        "Icon": "tomato",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "TROWEL": {
+        "Icon": "trowel",
+        "Storage": "STORAGE_INVENTORY",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "TRUFFLE": {
+        "Icon": "truffle",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "VIOLET": {
+        "Icon": "violet",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W00": {
+        "Icon": "w00",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W01": {
+        "Icon": "w01",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W02": {
+        "Icon": "w02",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W03": {
+        "Icon": "w03",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W04": {
+        "Icon": "w04",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W1": {
+        "Icon": "w1",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W2": {
+        "Icon": "w2",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W3": {
+        "Icon": "w3",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W4": {
+        "Icon": "w4",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W5": {
+        "Icon": "w5",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W6": {
+        "Icon": "w6",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W91": {
+        "Icon": "w91",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W92": {
+        "Icon": "w92",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W93": {
+        "Icon": "w93",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "W94": {
+        "Icon": "w94",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "WATERING_CAN": {
+        "Icon": "watering_can",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "WELL_FILTER": {
+        "Icon": "well_filter",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "WHEAT": {
+        "Icon": "wheat",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ZUCCHINI": {
+        "Icon": "zucchini",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "APPLE": {
+        "Icon": "apple",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "CHERRY": {
+        "Icon": "cherry",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ORANGE": {
+        "Icon": "orange",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PLUM": {
+        "Icon": "plum",
+        "Storage": "STORAGE_WAREHOUSE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "MONEY": {
+        "Icon": "money",
+        "Storage": "STORAGE_NOWHERE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "FRANCS": {
+        "Icon": "francs",
+        "Storage": "STORAGE_NOWHERE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "ENERGY": {
+        "Icon": "energy",
+        "Storage": "STORAGE_NOWHERE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "PEOPLE": {
+        "Icon": "people",
+        "Storage": "STORAGE_NOWHERE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    },
+    "COMFORT": {
+        "Icon": "comfort",
+        "Storage": "STORAGE_NOWHERE",
+        "AskType": "ASKTYPE_MESSAGE",
+        "PriceFrancs": 0
+    }
+}

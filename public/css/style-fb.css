@@ -1,0 +1,198 @@
+.ui-icon { width: 16px; height: 16px; background-image: url(../images/ui-icons_222222_256x240.png); display: inline-block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+.ui-icon-triangle-1-s { background-position: -64px -16px; }
+.ui-icon-close { background-position: -80px -128px; }
+.ui-icon-closethick { background-position: -96px -128px; }
+
+.ui-image { display: inline-block; text-indent: -99999px; overflow: hidden; background-repeat: no-repeat; }
+.ui-image-load { width: 32px; height: 32px; background-image: url(../images/load.gif); }
+
+.main-container-wrapper { width: 100%; text-align: center; }
+#fb-like { height: 30px; margin-top: 10px; }
+.fb-fanpage { height: 14px; float: left; background: url(../images/fanpage.png) left no-repeat; display:block; -webkit-border-radius:3px; border-radius: 3px; padding:4px 5px; border:1px solid #CAD4E7; background-color:#ECEEF5; font-size: 11px; font-family: "lucida grande",tahoma,verdana,arial,sans-serif; }
+.fb-fanpage:hover { border:1px solid #9dacce; }
+.fb-fanpage .text-container { color: #3B5998; text-decoration: none; padding-left: 18px; }
+.fb-fanpage .text-container:hover { text-decoration: underline; }
+
+.container-nav-wrapper { width: 500px; margin: 0 auto; }
+.container-nav { display: block; width: 100%; margin: 5px 0 0 0; padding: 0; font: 12px sans-serif; height: 23px; }
+.nav-tabs-item { float: left; height: 23px; background-image: url(../images/nav-item.gif); }
+.nav-tabs-item .icon-nav-left { width: 6px; height: 23px; float: left; background-image: url(../images/nav-item-left.gif); }
+.nav-tabs-item .icon-nav-right { width: 6px; height: 23px; float: left; background-image: url(../images/nav-item-right.gif); }
+
+.nav-tabs-item-blue { background-image: url(../images/menu_tabs/tab-middle-blue.png); }
+.nav-tabs-item-blue .icon-nav-left { background-image: url(../images/menu_tabs/tab-left-blue.png); }
+.nav-tabs-item-blue .icon-nav-right { background-image: url(../images/menu_tabs/tab-right-blue.png); }
+
+.nav-tabs-item-green { background-image: url(../images/menu_tabs/tab-middle-green.png); }
+.nav-tabs-item-green .icon-nav-left { background-image: url(../images/menu_tabs/tab-left-green.png); }
+.nav-tabs-item-green .icon-nav-right { background-image: url(../images/menu_tabs/tab-right-green.png); }
+
+.nav-tabs-item-red { background-image: url(../images/menu_tabs/tab-middle-red.png); }
+.nav-tabs-item-red .icon-nav-left { background-image: url(../images/menu_tabs/tab-left-red.png); }
+.nav-tabs-item-red .icon-nav-right { background-image: url(../images/menu_tabs/tab-right-red.png); }
+
+.nav-tabs-item-violet { background-image: url(../images/menu_tabs/tab-middle-violet.png); }
+.nav-tabs-item-violet .icon-nav-left { background-image: url(../images/menu_tabs/tab-left-violet.png); }
+.nav-tabs-item-violet .icon-nav-right { background-image: url(../images/menu_tabs/tab-right-violet.png); }
+
+.icon-nav-between { float: left; width: 2px; height: 23px; background-image: url(../images/menu_tabs/tab-divider.png); }
+
+.nav-tabs-item a { float: left; color: #FFFFFF; font: 12px; font-family: Tahoma; padding: .5em 1em; text-decoration: none; }
+.nav-tabs-item a:hover { text-decoration: underline; }
+.nav-selected a { font-weight: bold; }
+
+.container-tab-wrapper {position: relative; height: 620px; width: 730px; margin: 0 auto; z-index: 1;}
+.container-tab { display: block; position: absolute; left: 0px; background: #baff9f url(../images/container-bottom.jpg) bottom no-repeat; width: 730px; padding: 0; height: 620px; border-top: 2px solid #1e7f16;}
+#app-tab-2 { width: 100%; z-index: 2;}
+.container-tab .container-main { background: #FFFFFF; text-align: center; height: 594px; margin: 0 8px 0px 8px; }
+
+.container-top { margin: 8px 8px 0 8px; width: 714px; height: 6px; background-image: url(../images/corner-container-top.gif); }
+.container-bottom { margin: 0 8px 8px 8px; width: 714px; height: 6px; background-image: url(../images/corner-container-bottom.gif); }
+.container-message-bottom { width: 672px; height: 7px; background-image: url(../images/container-message-bottom.png); }
+.container-message-top { width: 672px; height: 7px; background-image: url(../images/container-message-top.png); }
+
+.six-waves-banner { margin-top: 30px; }
+
+.container-tab .container-main .tab-title { font-family: Tahoma; color: #000000; font-size: 16px; margin: 0 8px 0 10px; padding: 8px 0 10px 0; font-weight: bold; text-align: left; }
+.container-tab .container-main .ui-button-back { margin-top: 30px; }
+.tab-hidden { display: block !important; visibility:hidden !important; }
+.tab-hidden object, .tab-hidden embed { height: 0; width: 0; }
+
+#free-presents { display: inline-block; margin: 0; padding: 0; width: 710px; }
+#free-presents LI { position: relative; width: 126px; height: 170px; margin: 8px; padding: 0px; float: left; list-style: none; background: url(../images/container-persent-bottom.png) bottom no-repeat; cursor: pointer; }
+#free-presents LI .present-frame { width: 126px; height: 120px; background-image: url(../images/container-persent-frame.png); position: relative; z-index: 20; }
+#free-presents LI .present-image { position: absolute; z-index: 19; left: 10px; top: 10px; }
+#free-presents LI .persent-name { margin: 5px 8px 10px 8px; font: bold 12px Tahoma; color: #a11b00; }
+
+#flash_player_container object { outline: none; }
+
+.message-tab #messages,.message-loading,.message-empty {
+	font-family: Tahoma;
+	display: block;
+	margin: 10px 0 0 0;
+	padding: 0;
+	color: #464646;
+}
+
+.message-tab #messages {
+	font-size: 14px;
+	overflow-y: auto;
+	height: 400px;
+}
+.message-tab .message-loading,.message-empty {
+	display: none;
+	font-size: 22px;
+	height: 270px;
+}
+.message-tab .message-loading-text,.message-empty-text {
+	margin: 130px 0 20px 0;
+}
+
+
+#messages LI { margin: 15px; padding: 0px; list-style: none; width: 672px; text-align: left; }
+#messages LI table { width: 672px; margin: 0; border-left: 2px solid #dbdbdb; border-right: 2px solid #dbdbdb; }
+#messages LI table IMG { float: left; margin: 0 10px 0 10px; }
+#messages LI table .message-username { display: block; font-size: 18px; color: #1e7f16;	margin-bottom: 2px; }
+#messages LI table .message-text { font-size: 14px; }
+#messages .message-buttons .ui-button-apply,ui-button-deny { float: left; margin-right: 10px; }
+
+#messages .message-sending { display: none; }
+
+#messages .message-sending-end { display: none; text-align: center; }
+
+.message-no-messages { display: none; width: 714px; font-size: 20px; margin-top: 50px; }
+
+/* TAB FRIENDS */
+
+.tab-friends { font-family: Tahoma; color: #898989; font-size: 14px; }
+.tab-friends .dialog-header { padding: 10px; text-align: left; height: 150px; }
+.tab-friends .dialog-header .dialog-header-job-name { color: #1e7f16; font-size: 18px; }
+.tab-friends .dialog-header .dialog-header-present-name { color: #1e7f16; font-size: 18px; }
+.tab-friends .dialog-header .dialog-header-prestige { color: #000000; font-weight: bold; }
+.tab-friends .dialog-header .dialog-header-info { font-size: 11px; }
+
+
+.tab-friends .dialog-friends-group { position: relative; padding: 0; margin: 0 0 0 50px; height: 21px; }
+.tab-friends .dialog-friends-group li { position: relative; white-space: nowrap; float: left; list-style: none; height: 21px; width: 173px; background: #ffffff; color: #000000; text-align: center; cursor: pointer; }
+.tab-friends .dialog-friends-group li.dialog-friends-group-selected { background-image: url(../images/container-friends-nav.png); color: #ffffff; }
+.tab-friends .dialog-friends-container-top { background: #ffffff url(../images/container-friends-top.png); width: 672px; margin: 0 0 0 20px; padding: 0; height: 8px; font-size: 2px; }
+.tab-friends .dialog-friends-container-bottom { background: #ffffff url(../images/container-friends-bottom.png); width: 672px; margin: 0 0 0 20px; padding: 0; height: 8px; font-size: 2px; }
+.tab-friends .dialog-friends-container { background: #ffffff url(../images/container-friends.png); height: 300px; width: 672px; margin: 0 0 0 20px; }
+
+.dialog-friends { list-style: none; margin: 0; padding: 0; display: block; width: 672px; height: 300px; overflow-y: auto; }
+.dialog-friends li.dialog-friend { text-align: left; margin: 5px 0 0 5px; padding: 7px; float: left; width: 198px; height: 50px; cursor: pointer; }
+.dialog-friends li.dialog-friend .friend-name-true { font-size: 14px; margin-top: 6px; font-weight: bold; }
+.dialog-friends li.dialog-friend .friend-name-false { font-size: 14px; margin-top: 6px; font-weight: bold; }
+
+.dialog-friends li.dialog-friend-job { text-align: left; margin: 5px 0 0 5px; padding: 7px; float: left; width: 300px; height: 70px; cursor: pointer; }
+.dialog-friends li.dialog-friend-job .friend-prestige,.friend-job { color: #464646; font-size: 12px; }
+.dialog-friends li.dialog-friend-job .friend-info { color: #898989; font-size: 11px; margin-top: 4px; }
+
+.dialog-friends li.dialog-friend-selected { background-color: #ffcf5c; }
+.dialog-friends li IMG { margin: 0 10px 0 0; padding: 0px; float: left; }
+.dialog-friends li .friend-name-true { color: #1e7f16; font-size: 16px; margin-bottom: 5px; font-weight: bold; }
+.dialog-friends li .friend-name-false { color: #ca2302; font-size: 16px; margin-bottom: 5px; font-weight: bold; }
+
+.tab-friends .dialog-buttons { margin: 16px 8px 0 8px; padding: 0px; width: 683px; }
+.tab-friends .dialog-buttons .ui-button-send,.tab-friends .dialog-buttons .ui-button-cancel { float: right; margin-left: 20px; margin-top: 0; }
+
+.tab-friends .dialog-loading,.dialog-info { padding-top: 100px; font-size: 16px; display: none; width: 672px; text-align: center; }
+.tab-friends .dialog-loading .ui-image-load { margin-top: 20px; }
+
+/* TAB PAYMENTS */
+
+.tab-payments { background: #ffffff url(../images/payments/container-background.jpg) top no-repeat; text-align: center; height: 600px; }
+.tab-payments .tab-payments-title { display: inline-block; margin: 15px 0 10px 0; }
+.tab-payments .ui-button-back-2 { margin-top: 50px; }
+
+.tab-payments .your-money-stat { font-size: 1.2em; color: #fff; font-family: Arial; }
+.tab-payments .your-money-stat span { display: inline-block; vertical-align: middle; height: 27px; background: url("../images/payments/currency-money.png") no-repeat left center; padding: 3px 0 0 30px; margin-left: 10px; }
+.tab-payments .your-money-stat .cash { background-image: url("../images/payments/currency-cash.png"); }
+
+.tab-payments ul { display: inline-block; margin: 0; padding: 0; width: 690px; 	font: bold 16px Tahoma; color: #790000; }
+
+.tab-payments li { position: relative; list-style: none; float: left; width: 330px; height: 73px; padding: 0; margin: 10px 7px 10px 7px; background: url(../images/payments/block-background.png) top no-repeat; }
+.tab-payments li .best-blue { position: absolute; left: -20px; bottom: -40px; width: 81px; height: 80px; background: url(../images/payments/best-blue.png) }
+.tab-payments li .best-green { position: absolute; left: -10px; bottom: -40px; width: 81px; height: 80px; background: url(../images/payments/best-green.png) }
+.tab-payments li .ui-button-buy { position: absolute; bottom: -5px; left: 127px; }
+.tab-payments li .payment-text { margin-top: 7px; }
+.tab-payments li .payment-text img { position: relative; top: 10px; }
+.tab-payments li .payment-text .currency-color-money { color: #d57300; }
+.tab-payments li .payment-text .currency-color-cash { color: #096002; }
+.tab-payments li .payment-text .currency-color-real { color: #1d3287; }
+.tab-payments li .payment-text .separator { margin: 0 5px 0 5px; }
+
+/* TAB INVITE */
+
+.tab-invite { font-family: Tahoma; }
+.tab-invite .container-bottom { background-image: url(../images/invite/corner-container-bottom.gif); }
+
+.invite-header { text-align: left; height: 90px; }
+.invite-header IMG { float: left; margin: 10px; }
+.invite-header .invite-header-head { font-size: 20px; padding-top: 10px; }
+.invite-header .invite-header-message { font-size: 14px; }
+.invite-header .invite-header-message .title { font-size: 13px; color: #898989; margin: 5px 0 2px 0; }
+
+.invite-filters { text-align: left; width: 100%; height: 47px; background-color: #daeda1;}
+.invite-filters .ui-button-select { margin-left: 15px; }
+.invite-filters .ui-button-select, .invite-filters .ui-button-deselect { text-indent: 0px; font-size: 13px; color: #ffffff; text-align: center; padding-top: 4px; margin-top: 10px; }
+.invite-filters .invite-search { position: relative; display: inline-block; margin-top: 0px; margin-left: 15px; }
+.invite-filters .invite-search input { height: 25px; width: 500px; }
+.invite-filters .invite-search-empty { color: #dbdbdb; }
+.invite-filters .invite-search .invite-search-clear { position: absolute; bottom: 4px; right: 4px; cursor: pointer; }
+
+.invite-friends-container { height: 397px; }
+
+.invite-loading { color: #464646; font-size: 22px; padding-top: 100px; }
+.invite-loading .invite-loading-text { margin-bottom: 20px; }
+
+.tab-invite .dialog-friends { display: none; width: 100%; height: 397px; }
+.tab-invite .dialog-friends .hidden-filter { display: none; }
+
+.invite-buttons { text-align: center; background-color: #DAEDA1; height: 60px; }
+.invite-buttons .ui-button-send, .invite-buttons .ui-button-cancel { margin: 15px; }
+
+/* BUTTONS */
+
+.ui-button-select { width: 82px; height: 25px; background-image: url(../images/invite/top-button.png); }
+.ui-button-deselect { width: 82px; height: 25px; background-image: url(../images/invite/top-button.png); }

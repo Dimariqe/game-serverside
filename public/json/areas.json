@@ -1,0 +1,346 @@
+﻿{
+
+"Area.0":	{
+	"X":0, "Y":0, "W":20, "H":20
+},
+
+"Area.1":	{
+	"X":20, "Y":20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.2":	{
+	"X":30, "Y":30, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.3":	{
+	"X":20, "Y":10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.4":	{
+	"X":30, "Y":20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.5":	{
+	"X":10, "Y":20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.6":	{
+	"X":20, "Y":30, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.7":	{
+	"X":10, "Y":-10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.8":	{
+	"X":20, "Y":0, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.9":	{
+	"X":30, "Y":10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.10":	{
+	"X":40, "Y":20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.11":	{
+	"X":-10, "Y":10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.12":	{
+	"X":0, "Y":20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.13":	{
+	"X":10, "Y":30, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.14":	{
+	"X":20, "Y":40, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.15":	{
+	"X":20, "Y":-10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.16":	{
+	"X":30, "Y":0, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.17":	{
+	"X":40, "Y":10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.18":	{
+	"X":-10, "Y":20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.19":	{
+	"X":0, "Y":30, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.20":	{
+	"X":10, "Y":40, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.21":	{
+	"X":20, "Y":-20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.22":	{
+	"X":30, "Y":-10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.23":	{
+	"X":40, "Y":0, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.24":	{
+	"X":50, "Y":10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.25":	{
+	"X":-20, "Y":20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.26":	{
+	"X":-10, "Y":30, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.27":	{
+	"X":0, "Y":40, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.28":	{
+	"X":10, "Y":50, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.29":	{
+	"X":30, "Y":-20, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.30":	{
+	"X":40, "Y":-10, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.31":	{
+	"X":50, "Y":0, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.32":	{
+	"X":-20, "Y":30, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.33":	{
+	"X":-10, "Y":40, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+},
+
+"Area.34":	{
+	"X":0, "Y":50, "W":10, "H":10, 
+	"Lock":	{
+		"CancelCost":0, "Quests":[], "Prestige":0
+	},
+	"Req":[
+		{"N":0, "Res":"Money", "Qty":150}
+	]
+}
+}

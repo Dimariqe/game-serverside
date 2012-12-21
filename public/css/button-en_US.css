@@ -1,0 +1,11 @@
+.ui-button { display: inline-block; text-indent: -99999px; background-repeat: no-repeat; cursor: pointer; }
+.ui-button-send { width: 134px; height: 33px; background-image: url(../images/button-en_US/ui-button-send.png);}
+.ui-button-cancel { width: 134px; height: 33px; background-image: url(../images/button-en_US/ui-button-cancel.png); }
+.ui-button-back { width: 134px; height: 41px; background-image: url(../images/button-en_US/ui-button-back.png); }
+.ui-button-back-2 { width: 134px; height: 41px; background-image: url(../images/button-en_US/ui-button-back-2.png); }
+.ui-button-apply {width: 136px; height: 39px; background-image: url(../images/button-en_US/ui-button-apply.png); }
+.ui-button-deny { width: 33px; height: 39px; background-image: url(../images/button-en_US/ui-button-deny.png); }
+.ui-button-buy { width: 76px; height: 27px; background-image: url(../images/button-en_US/ui-button-buy.png); }
+.ui-button-game { width: 148px; height: 57px; background-image: url(../images/button-en_US/ui-button-game.png); }
+
+.tab-payments-title { width: 312px; height: 39px; background-image: url(../images/button-en_US/titles-payment.png); }
